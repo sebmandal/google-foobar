@@ -1,3 +1,7 @@
+"""
+How many knight moves from x to y positions
+"""
+
 def solution(src, dest):
     if src == dest:
         return 0
